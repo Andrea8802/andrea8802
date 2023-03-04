@@ -1,4 +1,4 @@
-<p align="center"> <img src="logo.png" style="width:400px"><p/>
+<p align="center"> <img src="logo.png" style="width:360px"><p/>
 <h2 align="center">Jr. Full Stack Web Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrea8802&label=Visite%20al%20profilo&color=bb9476&style=flat" alt="andrea8802" /> </p>
