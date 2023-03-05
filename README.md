@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrea8802&label=Visite%20al%20profilo&color=bb9476&style=flat" alt="andrea8802" /> </p>
 
-- 🌱 In questo momento sto studiando **React, C#, .NET**
+- 🌱 Sto attualmente studiando **React, C#, .NET**
 
 - 👨‍💻 Web Portfolio [https://andrea8802.github.io/web-portfolio/](https://andrea8802.github.io/web-portfolio/)
 
