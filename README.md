@@ -5,7 +5,7 @@
 
 - 🌱 Sto attualmente studiando **React, C#, .NET**
 
-- 👨‍💻 Web Portfolio [https://andrea8802.github.io/web-portfolio/](https://andrea8802.github.io/web-portfolio/)
+- 👨‍💻 Web Portfolio [https://www.andreabonaventuradev.it/](https://www.andreabonaventuradev.it/)
 
 - 📫 Email **andreabonaventuradev@gmail.com**
 
