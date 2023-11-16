@@ -1,9 +1,9 @@
 <p align="center"> <img src="logo.png" style="width:330px"><p/>
-<h1 align="center">Jr. Full Stack Web Developer</h1>
+<h1 align="center">Software Developer</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrea8802&label=Visite%20al%20profilo&color=bb9476&style=flat" alt="andrea8802" /> </p>
 
-- 🌱 Sto attualmente studiando **React, C#, .NET**
+- 🌱 Sto attualmente studiando **C, C++, Python**
 
 - 👨‍💻 Web Portfolio [https://www.andreabonaventuradev.it/](https://www.andreabonaventuradev.it/)
 
